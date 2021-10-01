@@ -1,0 +1,37 @@
+==> 2021-09-20 22:47:06 <==
+# cmd: C:\Users\Laurie\anaconda3\Scripts\conda-script.py create --clone C:/Users/Laurie/miniconda3 -n CIDM6325_Homework
+# conda version: 4.9.2
++defaults/noarch::idna-2.10-pyhd3eb1b0_0
++defaults/noarch::pycparser-2.20-py_2
++defaults/noarch::pyopenssl-20.0.1-pyhd3eb1b0_1
++defaults/noarch::requests-2.25.1-pyhd3eb1b0_0
++defaults/noarch::six-1.16.0-pyhd3eb1b0_0
++defaults/noarch::tqdm-4.61.2-pyhd3eb1b0_1
++defaults/noarch::tzdata-2021a-h52ac0ba_0
++defaults/noarch::urllib3-1.26.6-pyhd3eb1b0_1
++defaults/noarch::wheel-0.36.2-pyhd3eb1b0_0
++defaults/win-64::brotlipy-0.7.0-py39h2bbff1b_1003
++defaults/win-64::ca-certificates-2021.7.5-haa95532_1
++defaults/win-64::certifi-2021.5.30-py39haa95532_0
++defaults/win-64::cffi-1.14.6-py39h2bbff1b_0
++defaults/win-64::chardet-4.0.0-py39haa95532_1003
++defaults/win-64::conda-package-handling-1.7.3-py39h8cc25b3_1
++defaults/win-64::console_shortcut-0.1.1-4
++defaults/win-64::cryptography-3.4.7-py39h71e12ea_0
++defaults/win-64::menuinst-1.4.16-py39h2bbff1b_0
++defaults/win-64::openssl-1.1.1k-h2bbff1b_0
++defaults/win-64::pip-21.1.3-py39haa95532_0
++defaults/win-64::powershell_shortcut-0.0.1-3
++defaults/win-64::pycosat-0.6.3-py39h2bbff1b_0
++defaults/win-64::pysocks-1.7.1-py39haa95532_0
++defaults/win-64::python-3.9.5-h6244533_3
++defaults/win-64::pywin32-228-py39he774522_0
++defaults/win-64::ruamel_yaml-0.15.100-py39h2bbff1b_0
++defaults/win-64::setuptools-52.0.0-py39haa95532_0
++defaults/win-64::sqlite-3.36.0-h2bbff1b_0
++defaults/win-64::vc-14.2-h21ff451_1
++defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
++defaults/win-64::win_inet_pton-1.1.0-py39haa95532_0
++defaults/win-64::wincertstore-0.2-py39h2bbff1b_0
++defaults/win-64::yaml-0.2.5-he774522_0
+# update specs: ['defaults/win-64::ca-certificates==2021.7.5=haa95532_1', 'defaults/noarch::tzdata==2021a=h52ac0ba_0', 'defaults/win-64::vs2015_runtime==14.27.29016=h5e58377_2', 'defaults/win-64::vc==14.2=h21ff451_1', 'defaults/win-64::openssl==1.1.1k=h2bbff1b_0', 'defaults/win-64::sqlite==3.36.0=h2bbff1b_0', 'defaults/win-64::yaml==0.2.5=he774522_0', 'defaults/win-64::python==3.9.5=h6244533_3', 'defaults/win-64::pywin32==228=py39he774522_0', 'defaults/win-64::menuinst==1.4.16=py39h2bbff1b_0', 'defaults/win-64::certifi==2021.5.30=py39haa95532_0', 'defaults/win-64::chardet==4.0.0=py39haa95532_1003', 'defaults/win-64::console_shortcut==0.1.1=4', 'defaults/noarch::idna==2.10=pyhd3eb1b0_0', 'defaults/win-64::powershell_shortcut==0.0.1=3', 'defaults/win-64::pycosat==0.6.3=py39h2bbff1b_0', 'defaults/noarch::pycparser==2.20=py_2', 'defaults/win-64::ruamel_yaml==0.15.100=py39h2bbff1b_0', 'defaults/noarch::six==1.16.0=pyhd3eb1b0_0', 'defaults/noarch::tqdm==4.61.2=pyhd3eb1b0_1', 'defaults/noarch::wheel==0.36.2=pyhd3eb1b0_0', 'defaults/win-64::win_inet_pton==1.1.0=py39haa95532_0', 'defaults/win-64::wincertstore==0.2=py39h2bbff1b_0', 'defaults/win-64::cffi==1.14.6=py39h2bbff1b_0', 'defaults/win-64::conda-package-handling==1.7.3=py39h8cc25b3_1', 'defaults/win-64::pysocks==1.7.1=py39haa95532_0', 'defaults/win-64::setuptools==52.0.0=py39haa95532_0', 'defaults/win-64::brotlipy==0.7.0=py39h2bbff1b_1003', 'defaults/win-64::cryptography==3.4.7=py39h71e12ea_0', 'defaults/win-64::pip==21.1.3=py39haa95532_0', 'defaults/noarch::pyopenssl==20.0.1=pyhd3eb1b0_1', 'defaults/noarch::urllib3==1.26.6=pyhd3eb1b0_1', 'defaults/noarch::requests==2.25.1=pyhd3eb1b0_0']
